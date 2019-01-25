@@ -1,4 +1,4 @@
-![useful image]({{ site.url }}/webassets/zumo-biggerbuttons.jpg)
+![Zumo with Bigger Buttons](webassets/zumo-biggerbuttons.jpg )
 
 ## Zumo Bigger Buttons
 
