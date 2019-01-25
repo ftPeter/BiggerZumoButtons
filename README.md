@@ -1,4 +1,4 @@
-![Zumo with Bigger Buttons Rendering](webassets/rendering.png | width=200)
+![Zumo with Bigger Buttons Rendering](webassets/rendering.png)
 
 ## Zumo Bigger Buttons
 
